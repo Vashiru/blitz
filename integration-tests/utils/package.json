@@ -23,7 +23,7 @@
     "node-fetch": "3.2.3",
     "pkg-dir": "5.0.0",
     "playwright-chromium": "1.49.1",
-    "react": "19.0.0",
+    "react": "19.0.1",
     "react-dom": "19.0.0",
     "resolve-cwd": "3.0.0",
     "resolve-from": "5.0.0",

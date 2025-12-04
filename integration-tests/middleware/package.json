@@ -15,8 +15,8 @@
     "@blitzjs/next": "3.0.2",
     "@blitzjs/rpc": "3.0.2",
     "blitz": "3.0.2",
-    "next": "15.0.1",
-    "react": "19.0.0",
+    "next": "15.0.5",
+    "react": "19.0.1",
     "react-dom": "19.0.0"
   },
   "devDependencies": {
